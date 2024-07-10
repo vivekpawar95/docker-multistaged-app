@@ -3,8 +3,31 @@
 
  This Repository explores the concpets of multistaging and distroless images.
 [Medium Article: Make your docker builds image 1000 times smaller using Multi-staging and distroless images](https://medium.com/@vivekpawar95/make-your-docker-build-image-1000-times-smaller-using-multi-staging-and-distroless-images-91805b3e9bcf)
-## comands
+## commands
 
+## node server
+
+```bash
+
+#install packages
+$ npm install
+
+#install only production packages
+$ npm install --omit=dev
+
+#start in watch mode
+$ npm rn start:dev
+
+# build server
+$ npm run build
+
+#start server 
+$ npm run start
+
+```
+
+
+## docker 
 ```bash
 #Build command
 $ docker build -t node-app-image .   

@@ -2,7 +2,7 @@
 ## Description
 
  This Repository explores the concpets of multistaging and distroless images.
-[Medium Article: Make your docker builds image 1000 times smaller using Multi-staging and distroless images](https://medium.com/@vivekpawar95/make-your-docker-build-image-1000-times-smaller-using-multi-staging-and-distroless-images-91805b3e9bcf)
+[Medium Article: Build your docker images 1000% smaller using Multi-staging and Distroless image.](https://medium.com/@vivekpawar95/make-your-docker-build-image-1000-times-smaller-using-multi-staging-and-distroless-images-91805b3e9bcf)
 ## commands
 
 ## node server
